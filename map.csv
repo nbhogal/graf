@@ -1,2 +1,2 @@
-geohash,time,metric,statement
-9wvfgzurfzb,1.52976E+12,75.65432417,Total Capacity : 100 MW
+geohash,latitude,longitude,time,metric,statement
+9wvfgzurfzb,17.38,78.49,1.52976E+12,100,Total Capacity
