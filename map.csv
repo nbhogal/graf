@@ -1,2 +1,2 @@
-geohash,latitude,longitude,time,metric,statement
-9wvfgzurfzb,17.38,78.49,1.52976E+12,100 MW,Total Capacity
+latitude,longitude,statement
+17.38,78.49,"Total Capacity: 100 MW, Green: 75 MW, Brown: 25 MW"
