@@ -1,2 +1,10 @@
-latitude,longitude,statement
-17.38,78.49,"Total Capacity: 100 MW, Green: 75 MW, Brown: 25 MW"
+latitude,longitude,statement,metric
+17.38,78.49,"Total Capacity: 100 MW, Green: 75 MW, Brown: 25 MW",1
+51.5,-0.09,"Total Capacity: 100 MW, Green: 75 MW, Brown: 25 MW",1
+1.29,103.85,"Total Capacity: 100 MW, Green: 75 MW, Brown: 25 MW",1
+23.77,90.4,"Total Capacity: 100 MW, Green: 75 MW, Brown: 25 MW",1
+23.61,58.54,"Total Capacity: 100 MW, Green: 75 MW, Brown: 25 MW",1
+25.1164,56.3414,"Total Capacity: 100 MW, Green: 75 MW, Brown: 25 MW",1
+16.87,96.2,"Total Capacity: 100 MW, Green: 75 MW, Brown: 25 MW",1
+10.82,106.62,"Total Capacity: 100 MW, Green: 75 MW, Brown: 25 MW",1
+28.76,104.62,"Total Capacity: 100 MW, Green: 75 MW, Brown: 25 MW",1
