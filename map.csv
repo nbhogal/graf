@@ -1,10 +1,8 @@
 latitude,longitude,statement,metric
-17.38,78.49,"Total Capacity: 100 MW, Green: 75 MW, Brown: 25 MW",1
-51.5,-0.09,"Total Capacity: 100 MW, Green: 75 MW, Brown: 25 MW",1
-1.29,103.85,"Total Capacity: 100 MW, Green: 75 MW, Brown: 25 MW",1
-23.77,90.4,"Total Capacity: 100 MW, Green: 75 MW, Brown: 25 MW",1
-23.61,58.54,"Total Capacity: 100 MW, Green: 75 MW, Brown: 25 MW",1
-25.1164,56.3414,"Total Capacity: 100 MW, Green: 75 MW, Brown: 25 MW",1
-16.87,96.2,"Total Capacity: 100 MW, Green: 75 MW, Brown: 25 MW",1
-10.82,106.62,"Total Capacity: 100 MW, Green: 75 MW, Brown: 25 MW",1
-28.76,104.62,"Total Capacity: 100 MW, Green: 75 MW, Brown: 25 MW",1
+17.38,78.49,"Total Capacity: 7685 MW, Green: 2640 MW, Brown: 5045 MW",2
+51.5,-0.09,"Total Capacity: 1592 MW, Green: 81 MW, Brown: 1511 MW",2
+1.29,103.85,"Total Capacity: 3885 MW, Green: 296 MW, Brown: 3589 MW",2
+23.77,90.4,"Total Capacity: 5749 MW, Green: 0 MW, Brown: 5749 MW",2
+23.61,58.54,"Total Capacity: 44448 MW, Green: 0 MW, Brown: 44448 MW",3
+16.87,96.2,"Total Capacity: 1701 MW, Green: 29 MW, Brown: 1672 MW",2
+28.76,104.62,"Total Capacity: 265635 MW, Green: 909 MW, Brown: 264726 MW",5
