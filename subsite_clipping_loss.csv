@@ -1,4 +1,4 @@
-Date,Site H500 DC Energy (kWh),H500 clipping_loss,H500 clipping_loss_pct,Site H600 DC Energy (kWh),H600 clipping_loss,H600 clipping_loss_pct,Site H700 DC Energy (kWh),H700 clipping_loss,H700 clipping_loss_pct,Site H800 DC Energy (kWh),SB clipping_loss,SB clipping_loss_pct,SB DC Energy (kWh),SB clipping_loss,SB clipping_loss_pct,STAAC DC Energy (kWh),STAAC clipping_loss,STAAC clipping_loss_pct
+Date,Site H500 DC Energy (kWh),H500 clipping_loss,H500 clipping_loss_pct,Site H600 DC Energy (kWh),H600 clipping_loss,H600 clipping_loss_pct,Site H700 DC Energy (kWh),H700 clipping_loss,H700 clipping_loss_pct,Site H800 DC Energy (kWh),H800 clipping_loss,H800 clipping_loss_pct,SB DC Energy (kWh),SB clipping_loss,SB clipping_loss_pct,STAAC DC Energy (kWh),STAAC clipping_loss,STAAC clipping_loss_pct
 03/26/19,307.57325,0,0,255.5563333,0,0,365.8303333,0,0,194.87,0,0,143.0066667,0,0,500.0616667,0,0
 03/27/19,2245.30925,0,0,1874.883333,0,0,2663.118167,0,0,1413.491583,0,0,1081.35025,0,0,1798.444333,0,0
 03/28/19,1196.13075,0,0,1006.794167,0,0,1438.71625,0,0,754.8915833,0,0,577.03525,0,0,953.867,0,0
