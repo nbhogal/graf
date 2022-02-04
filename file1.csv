@@ -1,6 +1,6 @@
 Month,SASCO System PPA Consumption (MWh),STAE  (Westcamp) PPA Consumption (MWh),SASCO System (RECs),STAE (Westcamp) (RECs),SASCO Predicted RECs,STAE Predicted RECs,SASCO System Predicted Consumption (MWh),STAE  (Westcamp) Predicted Consumption (MWh)
 22-Jan,0,0,0,0,114,97,190,162
-21-Dec,0,0,0,0,110,92,183,153
+21-Dec,214.801,184.519,129,111,0,0,0,0
 21-Nov,164.511,139.986,99,84,0,0,0,0
 21-Oct,189.88,163.753,114,98,0,0,0,0
 21-Sep,198.449,159.236,119,96,0,0,0,0
